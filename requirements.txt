@@ -1,2 +1,4 @@
-python-telegram-bot[rate-limiter]
-python-dotenv
+python-telegram-bot[rate-limiter]>=21,<23
+python-dotenv>=1.0
+flask>=3.0
+requests>=2.31
